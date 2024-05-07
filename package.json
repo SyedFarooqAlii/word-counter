@@ -1,6 +1,6 @@
 {
-  "name": "far0817-counter",
-  "version": "1.0.3",
+  "name": "far0817-counters",
+  "version": "1.0.9",
   "description": "This is CLI Based Word Counter",
   "main": "index.js",
   "type": "module",
