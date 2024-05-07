@@ -1,4 +1,5 @@
 #! usr/bin/env node
+
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.cyanBright("Welcome To The Word Counter App!"))
